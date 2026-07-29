@@ -1,46 +1,25 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Demon List</title>
-    <link rel="stylesheet" href="style.css">
-</head>
+[
+    {
+        "position":1,
+        "name":"Acheron",
+        "creator":"Ryamu",
+        "verifier":"Zoink",
+        "points":250
+    },
 
-<body>
+    {
+        "position":2,
+        "name":"Tidal Wave",
+        "creator":"APTeam",
+        "verifier":"Zoink",
+        "points":245
+    },
 
-<header>
-    <h1>Demon List</h1>
-
-    <nav>
-        <a href="index.html">Home</a>
-    </nav>
-
-</header>
-
-
-<input id="search" placeholder="Search demons...">
-
-
-<table>
-
-<thead>
-<tr>
-<th>Rank</th>
-<th>Name</th>
-<th>Creator</th>
-<th>Verifier</th>
-<th>Points</th>
-</tr>
-</thead>
-
-
-<tbody id="demon-table">
-
-</tbody>
-
-</table>
-
-
-<script src="script.js"></script>
-
-</body>
-</html>
+    {
+        "position":3,
+        "name":"Avernus",
+        "creator":"Pocke",
+        "verifier":"Zoink",
+        "points":240
+    }
+]
